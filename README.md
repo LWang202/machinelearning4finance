@@ -23,9 +23,11 @@ The repository consists of the following categories:
     - Logistic Regression
     - Naive Bayes
     - Random Forest
+
 2. **Unsupervised Learning Models** 👾 🦽
     - Clustering (K-means)
     - Dimensionality Reduction (PCA)
+
 3. **Deep Learning Models** 📡 ⚓️
     - Supervised Deep Learning Models
        - Recurrent Neural Networks (LSTM)
@@ -33,6 +35,7 @@ The repository consists of the following categories:
     - Unsupervised Deep Learning Models
        - Autoencoders
        - Generative Adversarial Networks (GANs)
+       
 4. **Reinforcement Learning Models** 🦾 🚥
     - Q-Learning
 
