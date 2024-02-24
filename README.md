@@ -1,8 +1,8 @@
-# Machine Learning Models in Finance 💹
+# ⚙️ Machine Learning Models in Finance 💹 
 
 This repository contains various machine learning and deep learning models applicable to the financial domain.
 
-## Table of Contents
+## Table of Contents 📖
 
 - [1. Models Included](#1-models-included)
 - [2. Dependencies](#2-dependencies)
