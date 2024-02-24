@@ -35,7 +35,7 @@ The repository consists of the following categories:
     - Unsupervised Deep Learning Models
        - Autoencoders
        - Generative Adversarial Networks (GANs)
-       
+
 4. **Reinforcement Learning Models** 🦾 🚥
     - Q-Learning
 
@@ -49,7 +49,7 @@ The repository consists of the following categories:
 
 ## 3. Installation 🧶 🔧
 
-To install all dependencies, run (make a conda or python virtual if needed, optionally):
+To install all dependencies, run (make a conda or python virtual environment if needed, optionally):
 
 ```bash
 pip install -r requirements.txt
