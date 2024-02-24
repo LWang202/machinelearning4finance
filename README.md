@@ -49,6 +49,12 @@ The repository consists of the following categories:
 To install all dependencies, run:
 
 ```bash
+pip install -r requirements.txt
+```
+
+To install just the essentials needed, run:
+
+```bash
 pip install yfinance numpy tensorflow scikit-learn
 ```
 
