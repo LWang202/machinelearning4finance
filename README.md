@@ -4,15 +4,15 @@ This repository contains various machine learning and deep learning models appli
 
 ## Table of Contents 📖 🔬
 
-- [1. Models Included](#1-models-included)
-- [2. Dependencies](#2-dependencies)
-- [3. Installation](#3-installation)
+- [1. Models Included](#1-models-included-)
+- [2. Dependencies](#2-dependencies-)
+- [3. Installation](#3-installation-)
 - [4. Data Fetching](#4-data-fetching)
 - [5. Data Preprocessing](#5-data-preprocessing)
-- [6. Usage](#6-usage)
-- [7. Models Explained](#7-models-explained)
-- [8. Beyond The Models: Real-World Applications in Finance](#8-beyond-the-models-real-world-applications-in-finance)
-- [9. Disclaimer](#9-disclaimer)
+- [6. Usage](#6-usage-)
+- [7. Models Explained](#7-models-explained-)
+- [8. Beyond The Models: Real-World Applications in Finance](#8-beyond-the-models-real-world-applications-in-finance-)
+- [9. Disclaimer](#9-disclaimer-)
 
 ## 1. Models Included 🎹 🔮
 
