@@ -46,7 +46,7 @@ The repository consists of the following categories:
 
 ## 3. Installation
 
-To install all dependencies, run:
+To install all dependencies, run (make a conda or python virtual if needed, optionally):
 
 ```bash
 pip install -r requirements.txt
