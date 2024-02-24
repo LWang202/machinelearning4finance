@@ -92,29 +92,29 @@ python script_name.py
 
 #### 1.1 Linear Regression
 Linear Regression tries to fit a linear equation to the data, providing a straightforward and effective method for simple predictive tasks.
-![Linear Regression](./1.%20supervised_learning_models/linear_regression_summary_with_explanation.png)
+![Linear Regression](./01.%20supervised_learning_models/linear_regression_summary_with_explanation.png)
 
 #### 1.2 Logistic Regression
 Logistic Regression is traditionally used for classification problems but has been adapted here for regression tasks.
-![Logistic Regression](./1.%20supervised_learning_models/logistic_regression_summary_with_explanation.png)
+![Logistic Regression](./01.%20supervised_learning_models/logistic_regression_summary_with_explanation.png)
 
 #### 1.3 Naive Bayes
 Naive Bayes is particularly useful when you have a small dataset and is based on Bayes' theorem.
-![Naive Bayes](./1.%20supervised_learning_models/naive_bayes_summary_with_explanation.png)
+![Naive Bayes](./01.%20supervised_learning_models/naive_bayes_summary_with_explanation.png)
 
 #### 1.4 Random Forest
 Random Forest combines multiple decision trees to make a more robust and accurate prediction model.
-![Random Forest](./1.%20supervised_learning_models/random_forest_summary_with_explanation.png)
+![Random Forest](./01.%20supervised_learning_models/random_forest_summary_with_explanation.png)
 
 ### 2. Unsupervised Learning Models
 
 #### 2.1 Clustering (K-means)
 K-means clustering is used to partition data into groups based on feature similarity.
-![K-means](./2.%20unsupervised_learning_models/kmeans_financial_data_with_explanation.png)
+![K-means](./02.%20unsupervised_learning_models/kmeans_financial_data_with_explanation.png)
 
 #### 2.2 Dimensionality Reduction (PCA)
 PCA is used to reduce the number of features in a dataset while retaining the most relevant information.
-![PCA](./2.%20unsupervised_learning_models/PCA_financial_data_with_full_explanation.png)
+![PCA](./02.%20unsupervised_learning_models/PCA_financial_data_with_full_explanation.png)
 
 ### 3. Deep Learning Models
 
@@ -123,19 +123,19 @@ PCA is used to reduce the number of features in a dataset while retaining the mo
 ##### 3.1.1 Recurrent Neural Networks (RNNs/LSTM)
 Recurrent Neural Networks, particularly using Long Short-Term Memory (LSTM) units, are highly effective for sequence prediction problems. In finance, they can be used for time-series forecasting like stock price predictions.
 
-![RNNs/LSTM](./3.%20deep_learning_models/Apple_Stock_Price_Prediction.png)
+![RNNs/LSTM](./03.%20deep_learning_models/Apple_Stock_Price_Prediction.png)
 
 ##### 3.1.2 Convolutional Neural Networks (CNNs)
 Convolutional Neural Networks are primarily used in image recognition but can also be applied in finance for pattern recognition in price charts or for processing alternative data types like satellite images for agriculture commodity predictions.
 
-![CNNs](./3.%20deep_learning_models/Financial_News_Sentiment_Analysis.png)
+![CNNs](./03.%20deep_learning_models/Financial_News_Sentiment_Analysis.png)
 
 #### 3.2 Unsupervised Deep Learning Models
 
 ##### 3.2.1 Autoencoders
 Autoencoders are used for anomaly detection in financial data, identifying unusual patterns that do not conform to expected behavior.
 
-![Autoencoders](./3.%20deep_learning_models/Anomaly_Detection_Using_Autoencoder.png)
+![Autoencoders](./03.%20deep_learning_models/Anomaly_Detection_Using_Autoencoder.png)
 
 ##### 3.2.2 Generative Adversarial Networks (GANs)
 GANs are used for simulating different market conditions, helping in risk assessment for various investment strategies.
@@ -146,7 +146,7 @@ GANs are used for simulating different market conditions, helping in risk assess
 
 #### 4.1 Q-Learning
 Q-Learning is a type of model-free reinforcement learning algorithm used here for stock trading.
-![Q-Learning](./4.%20reinforcement_learning_models/Q_Learning_Stock_Trading_YFinance.png)
+![Q-Learning](./04.%20reinforcement_learning_models/Q_Learning_Stock_Trading_YFinance.png)
 
 ## 8. Beyond The Models: Real-World Applications in Finance
 
